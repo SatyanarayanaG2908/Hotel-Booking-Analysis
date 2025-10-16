@@ -76,5 +76,5 @@ EDA was performed using **Seaborn** and **Matplotlib** to visualize patterns suc
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Hotel-Booking-Analysis.git
+   git clone https://github.com/SatyanarayanaG2908/Hotel-Booking-Analysis
    cd Hotel-Booking-Analysis
